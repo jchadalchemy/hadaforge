@@ -35,7 +35,6 @@ hadaforge/
 ├── run_docker.py # Entrypoint for Docker setup
 └── requirements.txt # Python dependencies
 
-
 ---
 
 ## 🛠️ Getting Started
